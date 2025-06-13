@@ -1,1 +1,1 @@
-# Konfigurasi
+# Konfigurasi Linux Ubuntu 24.04
