@@ -1,5 +1,6 @@
 # BGP, OSPF, and Eigrp Routing Configuration on Cisco Packet Tracer
-![image](https://github.com/user-attachments/assets/9e0cde01-32aa-446e-8e62-8c0f1fd5d06e)
+
+![image](https://github.com/user-attachments/assets/d59435a5-00ee-409d-ae14-e728c2787cee)
 
 
 In the topology above, here I experimented with connecting routers using several routing protocols.
@@ -17,7 +18,7 @@ On The RouterBackbone2
 
 On The RouterClient1
 
-![image](https://github.com/user-attachments/assets/3ff44cd8-d0ed-475f-a446-c864323203d3)
+![image](https://github.com/user-attachments/assets/952016e7-5d74-492e-8d14-581b0f1f278b)
 
 
 On The RouterClient2
@@ -28,7 +29,7 @@ On The RouterClient2
 Then here I will first add the BGP routing configuration between the Backbone Routers:
 
 
-![image](https://github.com/user-attachments/assets/2f31505c-d0b2-49ed-a494-bc674476bed9)
+![image](https://github.com/user-attachments/assets/03aea819-ee53-46d7-aefc-1e5ee4b29475)
 
 
 ![image](https://github.com/user-attachments/assets/50493641-c5f4-4430-92df-84d0cfedb57a)
@@ -37,7 +38,7 @@ Then here I will first add the BGP routing configuration between the Backbone Ro
 Then I will add another routing configuration on each backbone router:
 
 
-![image](https://github.com/user-attachments/assets/79d30c05-6c73-4132-9cc0-edd9f947b204)
+![image](https://github.com/user-attachments/assets/d6485e2f-17bf-408b-bf1b-cb96706a8277)
 
 
 ![image](https://github.com/user-attachments/assets/fc1afb8a-2c4e-4100-bcf5-6e6459acb59e)
@@ -45,7 +46,7 @@ Then I will add another routing configuration on each backbone router:
 
 Next, add the Routing configuration to each Client Router:
 
-![image](https://github.com/user-attachments/assets/f374e269-5c52-4fa8-8d9f-f8babae66bc1)
+![image](https://github.com/user-attachments/assets/20540d04-8991-4008-86b8-015cf75e1330)
 
 
 ![image](https://github.com/user-attachments/assets/914ee16b-cca8-4c06-9e82-cd8216e3d61a)
