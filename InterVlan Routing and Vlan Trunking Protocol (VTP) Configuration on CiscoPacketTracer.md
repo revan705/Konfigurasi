@@ -19,3 +19,11 @@ Then set the CoreSwitchLayer 3-1 Trunking Port to the appropriate interface,
 the function of this trunking mode is to carry all VLANs on the configured port.
 
 ![image](https://github.com/user-attachments/assets/6a0ec84a-fb07-4567-96dd-b9a0d6bc420e)
+
+Set the VTP that will be used on CoreSwitchLayer3-1 as the VTP Server and set the VTP domain and VTP password that will be adjusted and matched to those that will be used on the VTP client:
+
+![image](https://github.com/user-attachments/assets/035d5f7f-ce53-49ee-ba2d-ec4475b03741)
+
+Then check the active VTP status:
+
+![image](https://github.com/user-attachments/assets/75681c27-6930-40eb-ab43-8a198bd0fdd7)
